@@ -1,0 +1,2 @@
+This is the COAWST model data for an article:  Axial wind effects on stratification and longitudinal sediment transport in a convergent estuary during wet season.
+Wenping Gong; School of Marine Science, Sun Yat-sen University, Guangzhou, China (2019). Axial wind effects on stratification and longitudinal sediment transport in a convergent estuary during wet season.
